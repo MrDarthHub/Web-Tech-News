@@ -10,3 +10,6 @@ Technologies:
 - Font awesome
 - Google styles
 - #Missing another one
+
+
+FALTA SUBIR LAS IMAGENES
