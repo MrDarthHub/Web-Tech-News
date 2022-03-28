@@ -7,7 +7,7 @@ This is a model web of a news.
 
 It was created to practice my skills on frontend development, improving my skills with HTML5 and CSS3.
 
-Execution:
+Live Demo:
 
 - Enter this link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
 
@@ -17,6 +17,6 @@ Esta es una maqueta de pagina web sobre noticias.
 
 Fue creada para practicar mi habilidades como frontend developer, asi mejorando mis habilidades con HTML5 y CSS3.
 
-Ejecucion:
+Demo en vivo:
 
 - Entre en este link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
