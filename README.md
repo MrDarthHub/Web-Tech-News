@@ -9,7 +9,7 @@ It was created to practice my skills on frontend development, improving my skill
 
 Execution:
 
-Enter this link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
+- Enter this link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
 
 ** Español **
 
@@ -19,4 +19,4 @@ Fue creada para practicar mi habilidades como frontend developer, asi mejorando 
 
 Ejecucion:
 
-Entre en este link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
+- Entre en este link: https://mrdarthhub.github.io/Web-Tech-News.github.io/
